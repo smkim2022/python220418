@@ -36,3 +36,7 @@ print(type(b))
 b.append(4)
 print(b)
 
+###
+
+#for k,v in device.items():
+#    print(k,v)
