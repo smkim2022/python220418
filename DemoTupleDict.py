@@ -42,3 +42,8 @@ print(b)
 #    print(k,v)
 
 ##### 네번째 연습
+
+devices = {"apple":100, "android":200}
+
+for items in devices.items():
+    print(items)
