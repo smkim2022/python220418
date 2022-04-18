@@ -6,5 +6,6 @@ def setValue(newValue):
     print("함수내부:",x)
 
 # 호출
+# 디비깅할 때 중단점
 retValue = setValue(5)
-print(setValue)
+print(retValue)
