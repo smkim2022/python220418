@@ -40,3 +40,5 @@ print(b)
 
 #for k,v in device.items():
 #    print(k,v)
+
+##### 네번째 연습
