@@ -1,4 +1,5 @@
 class Person:
+# ==class Person(object):
     pass
 class Bird:
     pass

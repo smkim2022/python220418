@@ -76,4 +76,5 @@ for i in iterL:
 print("---람다함수---")
 iterL = filter(lambda x:x>20, lst)
 for i in iterL:
-    print("Item:{0}".format(i))
+    print("Item:{0}".format(i)) ## 관용적 표현????
+    # print("Item:$i") ## 
