@@ -28,7 +28,7 @@ f.close()
 
 #기존 파일에 첨부하는 경우
 f = open("c:\\work\\demo.txt", "a+", encoding="utf-8")
-f.write("새루운 데이터\n")
+f.write("새로운 데이터\n")
 print(result)
 
 
